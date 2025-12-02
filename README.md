@@ -4,12 +4,12 @@ Here’s a breakdown of what MFT involves:
 1. Core Purpose:
                  MFT is designed to ensure that files are exchanged safely and efficiently, regardless of their size, type, or destination. It’s widely adopted in industries that must handle sensitive data—like finance, healthcare, and government—where regulatory compliance and data protection are critical.
 2. Key Features:
-	               • Security: Encryption (in transit and at rest), authentication, and integrity checks. 
-	               • Automation: Schedule and trigger-based transfers, eliminating manual intervention. 
-	               • Visibility and Tracking: Real-time monitoring, logging, and audit trails for compliance. 
-	               • Reliability: Guaranteed delivery, with retry mechanisms and failover options. 
-	               • Integration: Works across different systems and protocols (FTP, SFTP, HTTPS, AS2, etc.). 
-	               • Compliance: Helps organizations meet data protection regulations (e.g., GDPR, HIPAA, SOX).
+	               i).Security: Encryption (in transit and at rest), authentication, and integrity checks. 
+	               ii).Automation: Schedule and trigger-based transfers, eliminating manual intervention. 
+	               iii).Visibility and Tracking: Real-time monitoring, logging, and audit trails for compliance. 
+	               iv).Reliability: Guaranteed delivery, with retry mechanisms and failover options. 
+	                v).Integration: Works across different systems and protocols (FTP, SFTP, HTTPS, AS2, etc.). 
+	                vi).Compliance: Helps organizations meet data protection regulations (e.g., GDPR, HIPAA, SOX).
 3. Benefits:
 	• Reduces errors linked to manual file handling.
 	• Enhances data security and governance.
