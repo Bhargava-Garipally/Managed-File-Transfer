@@ -1,4 +1,3 @@
-# Managed-File-Transfer
 Managed File Transfer (MFT) is a secure, reliable, and centralized technology or solution used to automate and manage the transfer of data—such as files and documents—between systems, organizations, and people. goes beyond simple file transfer methods (like FTP, SFTP, or email attachments) by providing additional capabilities for security, automation, compliance, and visibility.
 Here’s a breakdown of what MFT involves:
 1. Core Purpose:
@@ -19,7 +18,7 @@ Here’s a breakdown of what MFT involves:
 				i).    Secure transmission of financial transactions.
    				ii).   Exchanging patient records between healthcare systems.
    				iii).  Sharing large data sets with partners or vendors.
-                iv).   Automating internal data workflows between applications or departments.
+                                iv).   Automating internal data workflows between applications or departments.
 In summary:
 Managed File Transfer (MFT) is a comprehensive data exchange solution that ensures secure, auditable, and automated file movement—essential in modern businesses where data integrity and compliance are vital.
 
