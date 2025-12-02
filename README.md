@@ -1,4 +1,4 @@
-<img width="952" height="50" alt="image" src="https://github.com/user-attachments/assets/d9c2ff5b-816a-4a3f-8a7d-a8dcc4f59ff3" />Managed File Transfer (MFT) is a secure, reliable, and centralized technology or solution used to automate and manage the transfer of data—such as files and documents—between systems, organizations, and people. goes beyond simple file transfer methods (like FTP, SFTP, or email attachments) by providing additional capabilities for security, automation, compliance, and visibility.
+Managed File Transfer (MFT) is a secure, reliable, and centralized technology or solution used to automate and manage the transfer of data—such as files and documents—between systems, organizations, and people. goes beyond simple file transfer methods (like FTP, SFTP, or email attachments) by providing additional capabilities for security, automation, compliance, and visibility.
 Here’s a breakdown of what MFT involves:
 1. Core Purpose:
                  MFT is designed to ensure that files are exchanged safely and efficiently, regardless of their size, type, or destination. It’s widely adopted in industries that must handle sensitive data—like finance, healthcare, and government—where regulatory compliance and data protection are critical.
@@ -21,13 +21,11 @@ Here’s a breakdown of what MFT involves:
                 iv).   Automating internal data workflows between applications or departments.
 
    ## Table of Contents
- 			i).   IBM Sterling File Gateway (SFG)
-			ii).  IBM Sterling B2B Integrator (SBI)
-            iii). IBM Sterling Secure Proxy
-            iv).  IBM Sterling External Authentication Server authentication
+ 			 i).   IBM Sterling File Gateway (SFG)
+			 ii).  IBM Sterling B2B Integrator (SBI)
+            iii).  IBM Sterling Secure Proxy
+            iv).   IBM Sterling External Authentication Server authentication
      
-
-
    
 In summary:
 Managed File Transfer (MFT) is a comprehensive data exchange solution that ensures secure, auditable, and automated file movement—essential in modern businesses where data integrity and compliance are vital.
