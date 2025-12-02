@@ -26,9 +26,9 @@ Here’s a breakdown of what MFT involves:
             iii). IBM Sterling Secure Proxy
             iv).  IBM Sterling External Authentication Server authentication
      
-<img width="412" height="69" alt="image" src="https://github.com/user-attachments/assets/239567f1-f8fc-40c6-9100-e063fa57b15f" />
+
 
    
 In summary:
-Managed File Transfer (MFT) is a comprehensive data exchange solution that ensures secure, auditable, and automated file movement—essential in modern businesses where data integrity and compliance are vital.<img width="931" height="108" alt="image" src="https://github.com/user-attachments/assets/eceebfd2-3b42-4e16-aad9-ec19b6d67d87" />
+Managed File Transfer (MFT) is a comprehensive data exchange solution that ensures secure, auditable, and automated file movement—essential in modern businesses where data integrity and compliance are vital.
 
