@@ -18,7 +18,7 @@ Here’s a breakdown of what MFT involves:
 				i).    Secure transmission of financial transactions.
    				ii).   Exchanging patient records between healthcare systems.
    				iii).  Sharing large data sets with partners or vendors.
-                                iv).   Automating internal data workflows between applications or departments.
+                iv).   Automating internal data workflows between applications or departments.
 In summary:
 Managed File Transfer (MFT) is a comprehensive data exchange solution that ensures secure, auditable, and automated file movement—essential in modern businesses where data integrity and compliance are vital.
 
