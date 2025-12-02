@@ -11,15 +11,15 @@ Here’s a breakdown of what MFT involves:
 	                v).Integration: Works across different systems and protocols (FTP, SFTP, HTTPS, AS2, etc.). 
 	                vi).Compliance: Helps organizations meet data protection regulations (e.g., GDPR, HIPAA, SOX).
 3. Benefits:
-	• Reduces errors linked to manual file handling.
-	• Enhances data security and governance.
-	• Simplifies file transfers across complex IT environments.
-	• Improves business efficiency through automation.
+				i).     Reduces errors linked to manual file handling.
+   				ii).    Enhances data security and governance.
+ 				iii).   Simplifies file transfers across complex IT environments.
+   				iv).    Improves business efficiency through automation.
 4. Typical Use Cases:
-	• Secure transmission of financial transactions.
-	• Exchanging patient records between healthcare systems.
-	• Sharing large data sets with partners or vendors.
-	• Automating internal data workflows between applications or departments.
+				i).    Secure transmission of financial transactions.
+   				ii).   Exchanging patient records between healthcare systems.
+   				iii).  Sharing large data sets with partners or vendors.
+                iv).   Automating internal data workflows between applications or departments.
 In summary:
 Managed File Transfer (MFT) is a comprehensive data exchange solution that ensures secure, auditable, and automated file movement—essential in modern businesses where data integrity and compliance are vital.
 
